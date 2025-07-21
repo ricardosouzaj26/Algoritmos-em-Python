@@ -14,5 +14,5 @@
 **Ricardo de Souza**
 
 - GitHub: [@ricardosouzaj26](https://github.com/ricardosouzaj26)  
-- LinkedIn: [Ricardo de Souza no LinkedIn](https://www.linkedin.com/in/ricardosouzaj26)  
+- LinkedIn: [Ricardo de Souza no LinkedIn]([https://www.linkedin.com/in/ricardosouzaj26](https://www.linkedin.com/in/ricardo-de-souza-junior-487702352/))  
 - Email: ricardode26souza@gmail.com
