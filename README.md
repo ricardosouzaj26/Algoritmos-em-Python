@@ -1,2 +1,18 @@
-# Calculador-IMC-py
-Calculadora de IMC desenvolvida com os fundamentos da programação em linguagem Python.   Este projeto permite calcular o Índice de Massa Corporal (IMC) a partir do peso e altura informados pelo usuário, exibindo também a classificação correspondente de acordo com a tabela da OMS.
+# Calculadora de IMC em Python
+
+## Funcionalidades
+
+- Entrada do peso (em quilogramas) e altura (em metros)
+- Validação de entrada (valores numéricos e positivos)
+- Cálculo do IMC com precisão de duas casas decimais
+- Classificação automática do IMC (Magreza, Normal, Sobrepeso, etc.)
+- Exibição da tabela de classificação do IMC
+- Organização modular por funções
+
+## Autor
+
+**Ricardo de Souza**
+
+- GitHub: [@ricardosouzaj26](https://github.com/ricardosouzaj26)  
+- LinkedIn: [Ricardo de Souza no LinkedIn](https://www.linkedin.com/in/ricardosouzaj26)  
+- Email: ricardode26souza@gmail.com
